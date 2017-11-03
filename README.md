@@ -1,6 +1,6 @@
-# Episode XY
+# Episode 63 - Faster Firestore with Data Aggregation
 
-Watch the [screencast]()
+Watch the [faster firestore screencast](https://angularfirebase.com/lessons/firestore-cloud-functions-data-aggregation/)
 
 ## Usage
 
